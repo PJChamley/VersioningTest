@@ -11,5 +11,6 @@ namespace VersionTesting.Interface
         string GetSomeData { get; set; }
         //string GetMoreData { get; set; }
         //string AddedAsPartOf5 { get; set; }
+
     }
 }
